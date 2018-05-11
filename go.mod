@@ -1,7 +1,6 @@
 module github.com/davidwalter0/go-oidc
 
 require (
-	github.com/coreos/go-oidc v0.0.0-20180417202737-1180514eaf4d
 	github.com/pquerna/cachecontrol v0.0.0-20180503211057-fd225a25f198
 	github.com/stretchr/testify v1.2.1
 	golang.org/x/crypto v0.0.0-20180509205747-2d027ae1dddd

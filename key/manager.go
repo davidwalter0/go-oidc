@@ -6,7 +6,7 @@ import (
 
 	"github.com/jonboulle/clockwork"
 
-	"github.com/davidwalter0/go-oidc/jose"
+	"gopkg.in/square/go-jose.v2"
 	"github.com/coreos/pkg/health"
 )
 

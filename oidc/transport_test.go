@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/coreos/go-oidc/jose"
+	"github.com/davidwalter0/go-oidc/jose"
 )
 
 type staticTokenRefresher struct {

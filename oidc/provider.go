@@ -14,8 +14,8 @@ import (
 	"github.com/coreos/pkg/timeutil"
 	"github.com/jonboulle/clockwork"
 
-	phttp "github.com/coreos/go-oidc/http"
-	"github.com/coreos/go-oidc/oauth2"
+	phttp "github.com/davidwalter0/go-oidc/http"
+	"github.com/davidwalter0/go-oidc/oauth2"
 )
 
 const (
